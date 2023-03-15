@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
+    "@react-navigation/native-stack": "^6.9.12",
+    "core-util-is": "^1.0.3",
     "expo": "~48.0.6",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.3"
+    "react-dom": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-document-picker": "^8.1.4",
+    "react-native-web": "~0.18.10",
+    "expo-document-picker": "~11.2.1",
+    "expo-constants": "~14.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
